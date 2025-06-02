@@ -42,6 +42,7 @@ TrackMyHabits is a simple yet powerful **habit tracker** mobile application buil
 
 # Clone the repository
 git clone https://github.com/manbahadurthapa1248/TrackMyHabits-Expo-React-Native-App.git
+
 cd TrackMyHabits-Expo-React-Native-App
 
 # Install dependencies
